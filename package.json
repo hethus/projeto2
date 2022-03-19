@@ -1,0 +1,16 @@
+{
+  "name": "aprendendo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Giovanne Berteli",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "t-writer.js": "^1.0.4"
+  }
+}
